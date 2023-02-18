@@ -1,0 +1,25 @@
+This is a longer test to test some edge cases. I haven't had many problems so far but for some reason it throws exceptions in random places. This test should help me solve some of those. 
+
+a ver que pasa cuando escribo en español
+
+1234567890-=
+
+[]\;'/.,`
+
+aaaaa
+bbbbb
+ccccc
+ddddd
+
+!@#$%^&*()_+{}|:">?<
+
+
+TEST TEST TEST TEST TEST
+
+HELLO WORLD
+
+
+
+
+
+
